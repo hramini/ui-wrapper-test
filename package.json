@@ -1,0 +1,22 @@
+{
+  "name": "ui-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/ui-wrapper.js",
+  "typings": "./lib/ui-wrapper.d.ts",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "jest --watchAll --coverage",
+    "tsc": "tsc"
+  },
+  "author": "hmd-amini",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "7.8.7",
+    "@babel/preset-env": "7.8.7",
+    "@babel/preset-typescript": "7.8.3",
+    "@types/jest": "25.1.2",
+    "jest": "25.1.0",
+    "typescript": "3.7.5"
+  }
+}

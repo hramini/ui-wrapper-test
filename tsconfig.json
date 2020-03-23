@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ES6",
+    "lib": ["ES2015", "DOM"],
+    "noImplicitAny": false,
+    "importHelpers": false,
+    "watch": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "Node",
+    "sourceMap": false,
+    "strictNullChecks": true,
+    "declaration": true
+  },
+  "exclude": ["node_modules"]
+}
