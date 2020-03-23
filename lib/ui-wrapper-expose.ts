@@ -12,7 +12,9 @@ export { Properties } from './type/properties-interface';
 export { States } from './type/states-interface';
 export { UnitFrame } from './unit/unit-frame-class';
 export {
+  IElement,
   IUnit,
+  IUnitAlterStateIn,
   IUnitGetFrameBuilderOut,
   IUnitGetTagBuilderOut,
   IUnitOnBeforeUpdateOut,
