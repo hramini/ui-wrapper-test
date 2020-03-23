@@ -1,9 +1,9 @@
 {
   "name": "ui-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "./lib/ui-wrapper.js",
-  "typings": "./lib/ui-wrapper.d.ts",
+  "main": "./lib/ui-wrapper-expose.js",
+  "typings": "./lib/ui-wrapper-expose.d.ts",
   "scripts": {
     "start": "webpack-dev-server",
     "test": "jest --watchAll --coverage",
