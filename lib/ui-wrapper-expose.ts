@@ -1,7 +1,7 @@
 export { Builder } from './builder/builder-class';
 export { IBuilder, IFrameBuilder, ITagBuilder } from './builder/builder-interface';
 export { Primer } from './primer/primer-class';
-export { IPrimer } from './primer/primer-interface';
+export { IPrimer, PrimerStartOptions } from './primer/primer-interface';
 export {
   ElementOption,
   FrameElementOption,

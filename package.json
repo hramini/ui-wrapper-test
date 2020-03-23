@@ -1,6 +1,6 @@
 {
   "name": "ui-wrapper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "./lib/ui-wrapper-expose.js",
   "typings": "./lib/ui-wrapper-expose.ts",
